@@ -1,0 +1,17 @@
+PC1,www.google.com,I
+0x01,ROOT,127.0.0.1,10055
+
+PC1,www.TEstCase.org,R
+0x00,ORG,206.223.160.80
+
+PC1,www.AmaZon.com,I
+0x01,ROOT,127.0.0.1,10055
+
+PC1,www.test.com,I
+0x01,ROOT,127.0.0.1,10055
+
+PC1,www.USA.gv,I
+0xEE,ROOT,"Invalid Format"
+
+PC1,www.usa.gov,R
+0x00,GOV,56.28.590.4
